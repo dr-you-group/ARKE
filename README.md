@@ -50,7 +50,7 @@ Ontology-grounded Mapping
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/1eetnals/ARKE.git
+git clone https://github.com/dr-you-group/ARKE.git
 cd ARKE
 ```
 
