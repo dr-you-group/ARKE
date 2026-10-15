@@ -1,0 +1,9 @@
+line-length = 120
+target-version = "py39"
+
+[lint]
+select = ["E", "F", "W", "I", "B"]
+
+[lint.per-file-ignores]
+"prompts.py" = ["E501", "W291"]
+"tests/*.py" = ["E501"]
